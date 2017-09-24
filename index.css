@@ -3,6 +3,15 @@ html{
     
 }
 
+li{
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+li:hover{
+    background-color: lightgreen;
+}
+
 .pomodoro-estimate{
     color:red;
     font-weight: bold;
